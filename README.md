@@ -127,7 +127,7 @@ Para uma demonstração completa do funcionamento do sistema, assista ao vídeo 
 Para uma demonstração completa do funcionamento do sistema, assista ao vídeo explicativo abaixo:
 
 <video width="600" controls>
-    <source src="public/video-projeto/video.mp4" type="video/mp4">
+    <source src="./public/video-projeto/video.mp4" type="video/mp4">
     Seu navegador não suporta a tag de vídeo.
 </video>
 
