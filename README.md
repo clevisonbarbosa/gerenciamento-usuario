@@ -121,6 +121,8 @@ Para uma demonstração completa do funcionamento do sistema, assista ao vídeo 
 ```
 /video-projeto/video.mp4
 ```
+https://github.com/clevisonbarbosa/gerenciamento-usuario/assets/video-projeto/video.mp4
+
 
 ## 🔐 Segurança
 
@@ -137,17 +139,6 @@ O projeto implementa diversas medidas de segurança:
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📞 Suporte
-
-Em caso de dúvidas ou problemas, abra uma issue no repositório:
-https://github.com/clevisonbarbosa/gerenciamento-usuario/issues
-
-## ✨ Agradecimentos
-
-- Equipe Laravel
-- Comunidade Open Source
-- Contribuidores do projeto
 
 ---
 Desenvolvido com ❤️ por [Clevison Barbosa](https://github.com/clevisonbarbosa)
