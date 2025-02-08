@@ -121,7 +121,7 @@ Para uma demonstração completa do funcionamento do sistema, assista ao vídeo 
 ```
 /video-projeto/video.mp4
 ```
-https://github.com/clevisonbarbosa/gerenciamento-usuario/assets/video-projeto/video.mp4
+https://github.com/clevisonbarbosa/gerenciamento-usuario/public/video-projeto/video.mp4
 
 
 ## 🔐 Segurança
