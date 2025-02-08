@@ -121,7 +121,15 @@ Para uma demonstração completa do funcionamento do sistema, assista ao vídeo 
 ```
 /video-projeto/video.mp4
 ```
-https://github.com/clevisonbarbosa/gerenciamento-usuario/public/video-projeto/video.mp4
+
+## 📹 Vídeo Demonstrativo
+
+Para uma demonstração completa do funcionamento do sistema, assista ao vídeo explicativo abaixo:
+
+<video width="600" controls>
+    <source src="public/video-projeto/video.mp4" type="video/mp4">
+    Seu navegador não suporta a tag de vídeo.
+</video>
 
 
 ## 🔐 Segurança
